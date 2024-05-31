@@ -8,7 +8,7 @@ As we can see, *@martini-craft* gave away his [Reddit account](https://www.reddi
 
 <img src="media/gameplay2_reddit1.png" alt="reddit account" height="350"><img src="media/gameplay2_reddit2.png" alt="more of reddit account" height="350"> 
 
-Here's where I got a bit lost as initially I couldn't find a way to read deleted comments, and none of the other stuff I was doing had any results... so I contacted the awesome stuff that created this CTF (:heart::heart::heart:) and they told me to keep trying with the deleted comments.
+Here's where I got a bit lost as initially I couldn't find a way to read deleted comments, and none of the other stuff I was doing had any results... so I contacted the awesome stuff that created this CTF (❤️❤️❤️) and they told me to keep trying with the deleted comments.
 
 Eventually I found [this website](https://redditcommentsearch.com/) that provided me the info I needed, and I was able to access their [discord server](https://discord.gg/962JwKdE), where they had the flag.
 
